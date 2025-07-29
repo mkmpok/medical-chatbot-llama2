@@ -1,6 +1,6 @@
 # medical-chatbot-llama2
 
-STEP 01- Create a conda environment 
+STEP 01- Create an environment 
 
 STEP 02- install the requirements
 pip install -r requirements.txt
