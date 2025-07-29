@@ -1,0 +1,9 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client==2.2.4
+langchain==0.0.225
+Flask==2.3.3
+pypdf==3.16.4
+python-dotenv==1.0.1
+huggingface_hub==0.16.4
+.e
